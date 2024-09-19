@@ -1,3 +1,4 @@
+//Este es un metodo, suscribete a la tecnologia avanza
 document.getElementById('btnClick').addEventListener('click', function() {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
